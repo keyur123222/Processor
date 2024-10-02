@@ -62,6 +62,12 @@ I used assembly language programs to verify the functionality of the processor. 
 - Accurate rendering of video output using the framebuffer.
 
 The UART program successfully prints "Hello World" over the serial interface, and the video controller correctly outputs the intended image.
+## Resources
+![alt text](https://github.com/keyur123222/Processor/blob/master/resource1.PNG)
+![alt text](https://github.com/keyur123222/Processor/blob/master/resource2.PNG)
+![alt text](https://github.com/keyur123222/Processor/blob/master/resource3.PNG)
+
+
 ## Credits
 
 Special thanks to the Rutgers University Embedded Systems Design course instructors for their guidance and support throughout the project.
